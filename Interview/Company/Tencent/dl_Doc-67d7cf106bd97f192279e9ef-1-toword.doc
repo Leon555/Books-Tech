@@ -1,0 +1,180 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<title>腾讯校园招聘软件开发方向笔试题92</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>三亿文库</o:Author>
+  <o:LastAuthor>三亿文库</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2011-07-03T05:27:00Z</o:Created>
+  <o:LastSaved>2013-10-22 22:41:39Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>9</o:Words>
+  <o:Company>http://3y.uu456.com</o:Company>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@仿宋_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:16.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+h1
+	{mso-style-next:正文;
+	margin-top:17.0pt;
+	margin-right:0cm;
+	margin-bottom:16.5pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:240%;
+	mso-pagination:lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:22.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:22.0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+<div class=Section1 style='layout-grid:15.6pt'>
+
+
+<p class=MsoNormal align=left style='text-align:left;line-height:150%;margin-top:3.6pt;'><span lang=EN-US style='font-size:9.0pt;line-height:150%'><a href="http://3y.uu456.com/search_%CC%DA%D1%B6%D0%A3%D4%B0%D5%D0%C6%B8%C8%ED%BC%FE%BF%AA%B7%A2%B7%BD%CF%F2%B1%CA%CA%D4%CC%E292_0.html"><span lang=EN-US style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";text-decoration:none;text-underline:none'><span lang=EN-US>点这里，有很多篇《腾讯校园招聘软件开发方向笔试题92》</span></span></a><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='text-align:left'><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>在线阅读本文：</span><span lang=EN-US style='font-size:12.0pt;color:#999999'><a href="http://3y.uu456.com/bp-67d7cf106bd97f192279e9ef-1.html"><span
+style='text-decoration:none;text-underline:none'>http://3y.uu456.com/bp-67d7cf106bd97f192279e9ef-1.html</span></a><o:p></o:p></span></p>
+
+<h1 align=center style='text-align:center'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>腾讯校园招聘软件开发方向笔试题92</span></h1>
+
+
+<div class=MsoNormal style='margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:2em;mso-char-indent-count:2.0;
+line-height:26.0pt;mso-line-height-rule:exactly;font-family:宋体;
+mso-hansi-font-family:宋体;'><p>腾讯2009校园招聘（软件开发职位方向笔试题与答案）  <p><p><p><p>一、单项选择题。（每个选项3分，20个选项，共60分）<p><p>1. 在一个单链表中，若p所指的结点不是最后结点，在p所指结点之后插进s所指结点，则应执行操纵（ B ）。<p><p>A. s-&gt;next=p;p-&gt;next=s<p><p>B. s-&gt;next=p-&gt;next;p-&gt;next=s<p><p>C. s-&gt;next=p-&gt;next;p=s<p><p>D. p-&gt;next=s;s-&gt;next=p<p><p>2. 在下列排序方法中，不稳定的方法有（ C ）。<p><p>A. 回并排序与基数排序<p><p>B. 插进排序与希尔排序<p><p>C. 堆排序与快速排序<p><p>D. 选择排序与冒泡排序<p><p>3. 在多级存储体系中，“Cache-主存”结构的作用是解决（ D ）的题目。<p><p>A. 主存容量不足<p><p>B. 辅存与CPU 速度不匹配<p><p>C. 主存与辅存速度不匹配<p><p>D. 主存与CPU速度不匹配<p><p>4. 在需要经常查找结点的先驱与后继的场合中，使用（ B ）比较合适。<p><p>A. 单链表<p><p>B. 循环链表<p><p>C. 链栈<p><p>5. 带头结点的单链表head为空的判定条件（ B ）。<p><p>A. head=NULL<p><p>B. head-&gt;next=NULL<p><p>C. head-&gt;next=head<p><p>D. head!=NULL<p><p>6. 将一个递回算法改为对应的非递回算法时，通常需要使用（ D ）。<p><p>A. 优先队列<p><p>B. 队列<p><p>C. 循环队列<p><p>D. 栈<p><p>7. 下列描述的不是链表的优点是（ C ）。<p><p>A. 逻辑上相邻的结点物理上不必邻接<p><p>B. 插进、删除运算操纵方便，不必移动结点<p><p>C. 所需存储空间比线性表节省<p><p>D. 无需事先估计存储空间的大小<p><p>8. SQL语言集数据查询、数据操纵、数据定义和数据控制功能于一体，语句INSERT、DELETE、UPDATE实现（ D ）功能。<p><p>A. 数据查询<p><p>B. 数据控制<p><p>C. 数据定义<p><p>D. 数据操纵<p><p>9. 设某种二叉树有如下特点：每个结点要么是叶子结点，要么有2棵子树。假如一棵这样的二叉树中有m（m&gt;0）个叶子结点，那么该二叉树上的结点总数为（ B ）。<p><p>A. 2m+1<p><p>B. 2m-1<p><p>C. 2(m-1)<p><p>D. 2m<p><p>10. TCP/IP协议栈的网络层的主要功能是通过（ A ）来完成的。<p><p>A. IP协议<p><p>B. TCP协议<p><p>C. 以太网协议<p><p>D. IGP协议<p><p>11. 实现不同的作业处理方式（如：批处理、分时处理、实时处理等），主要是基于操纵系统对（ A ）治理采取了不同的策略。<p><p>A. 处理机<p><p>B. 存储<p><p>C. 数据库<p><p>D. 文件<p><p>12. 下面关于编译系统和解释系统的观点中，错误的是（ A ）。<p><p>A. 解释程序不产生目标代码，它直接执行源程序或源程序的内部形式<p><p>B. 使用编译系统时会区分编译阶段和运行阶段<p><p>C. 一般来说，解释系统比编译系统复杂，但是可移植性好<p><p>D. 一般来说，建立在编译基础上的系统在执行速度上要优于建立在解释执行基础上的系统<p><p>13. 散列文件使用散列函数将记录的关键字值计算转化为记录的存放地址。由于散列函数不是一对一的关系，所以<p></p><p>选择好的（ D ）方法是散列文件的关键。<p><p>A. 散列函数<p><p>B. 除余法中的质数<p><p>C. 冲突处理<p><p>D. 散列函数和冲突处理<p><p>14. 衡量查找算法效率的主要标准是（ C ）。<p><p>A. 元素个数<p><p>B. 所需的存储量<p><p>C. 均匀查找长度<p><p>D. 算法难易程度<p><p>15. 对于#include &lt;filename.h&gt;和 #include “filename.h”，以下说法错误的是（ B ）。<p><p>A. #include &lt;filename.h&gt;只搜索标准库路径<p><p>B. #include “filename.h”只搜索用户工作路径<p><p>C. #include &lt;filename.h&gt;搜索范围比#include “filename.h”小<p><p>D. 两者可能等价<p><p>16. 类定义的外部，可以被访问的成员有（ C ）。<p><p>A. 所有类成员<p><p>B. private或protected的类成员<p><p>C. public的类成员<p><p>D. public或private的类成员<p><p>17. 下列的模板说明中，正确的有（ A,C ）（两个答案）。<p><p>A. template &lt;typename T1， typename T2&gt;<p><p>B. template &lt;class T1, T2&gt;<p><p>C. template &lt;class T1, class T2&gt;<p><p>D. template &lt;typename T1; typename T2&gt;<p><p>18. 中断响应时间是指（ C ）。<p><p>A. 从中断处理开始到中断处理结束所用的时间<p><p>B. 从发出中断请求到中断处理结束所用的时间<p><p>C. 从发出中断请求到进进中断处理所用的时间<p><p>D. 从中断处理结束到再次中断请求的时间<p><p>19. （ A ）面向对象程序设计语言不同于其他语言的主要特点。<p><p>A. 继续性<p><p>B. 消息传递<p><p>C. 多态性<p><p>D. 封装性<p><p>20. TCP/IP模型的体系结构中，ICMP协议属于（ B ）。<p><p>A. 应用层<p><p>B. 网络层<p><p>C. 数据链路层<p><p>D. 传输层<p><p>二、填空题。（每空4分，总计40分）<p><p>1. 阅读下列说明和流程图，将应填进（n）的字句写在答题纸的对应栏内。<p><p>【说明】<p><p>正弦函数可以用如下的泰勒级数展开式来计算：<p><p><p><p>下面的流程图描述了利用上述展开式计算并打印sin(x)的近似值的过程，其中用E（&gt;0）表示误差要求，小于该误差即可结束计算，打印结果。<p><p>【流程图】<p><p>2. 阅读下列函数说明和C代码，将应填进（n）处的字句写在答题纸的对应栏内。<p><p>【说明】设有一个带表头结点的双向循环链表L,每个结点有4个数据成员：指向先驱结点的指针prior、指向后继结点的指针next、存放数据的成员data和访问频度freq。所有结点的freq初始时都为0.每当在链表上进行一次L.Locate（x）操纵时，令元素值x的结点的访问频度freq加1，并将该结点前移，链接到现它的访问频度相等的结点后面，使得链表中所有结点保持按访问频度递减的顺序排列，以使频繁访问的结点总是靠近表头。<p><p>【函数】<p><p>void Locate(int &amp;x)<p><p>{ &lt;结点类型说明&gt;<p><p>*p=first-&gt;next;<p><p>while(p!=first &amp;&amp;     p-&gt;data!=x    ) p=p-&gt;next;<p><p>if (p!=first) <p><p>{    p-&gt;freq++    ;<p><p>&lt;结点类型说明&gt;<p><p>*current=p; <p><p>current-&gt;prior-&gt;next=current-&gt;next;<p><p></p><p><p>current-&gt;next-&gt;prior=current-&gt;prior;<p><p>p=current-&gt;prior; <p><p>while(p!=first &amp;&amp;    current-&gt;freq&gt;p-&gt;freq   ) p=p-&gt;prior;<p><p>current-&gt;next=   p-&gt;next     ;   <p><p>current-&gt;prior=p;<p><p>p-&gt;next-&gt;prior=current;<p><p>p-&gt;next=    current     ;<p><p>}<p><p>else<p><p>printf(“Sorry. Not find!\n”);  \*没找到*\<p><p>}<p><p>三、附加题（30分）<p><p>“背包题目”的基本描述是：有一个背包，能盛放的物品总重量为S,设有N件物品，其重量分别为w1，w2，…，wn，希看从N件物品中选择若干物品，所选物品的重量之和恰能放进该背包，即所选物品的重量之和即是S。递回和非递回解法都能求得“背包题目”的一组解，试写出“背包题目”的非递回解法。 <p></p><p><a href=http://3y.uu456.com>三亿文库3y.uu456.com</a>包含各类专业文献、行业资料、应用写作文书、中学教育、幼儿教育、小学教育、生活休闲娱乐、高等教育、腾讯校园招聘软件开发方向笔试题92等内容。</p></div>
+
+<p class=MsoFooter align=center style='text-align:center'><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>三亿文库</span><span lang=EN-US><a
+href="http://3y.uu456.com/">http://3y.uu456.com/</a></span></p>
+
+<p class=MsoFooter align=center style='text-align:center'><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>上亿文档资料，等你来发现</span><span lang=EN-US style='font-size:16.0pt;mso-bidi-font-size:10.0pt;color:#993300'><o:p></o:p></span></p>
+</div>
+</body></html>

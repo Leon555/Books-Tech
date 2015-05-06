@@ -1,0 +1,180 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<title>71腾讯笔试题合集</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>三亿文库</o:Author>
+  <o:LastAuthor>三亿文库</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2011-07-03T05:27:00Z</o:Created>
+  <o:LastSaved>2013-10-22 22:42:39Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>9</o:Words>
+  <o:Company>http://3y.uu456.com</o:Company>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@仿宋_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:16.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+h1
+	{mso-style-next:正文;
+	margin-top:17.0pt;
+	margin-right:0cm;
+	margin-bottom:16.5pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:240%;
+	mso-pagination:lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:22.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:22.0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+<div class=Section1 style='layout-grid:15.6pt'>
+
+
+<p class=MsoNormal align=left style='text-align:left;line-height:150%;margin-top:3.6pt;'><span lang=EN-US style='font-size:9.0pt;line-height:150%'><a href="http://3y.uu456.com/search_71%CC%DA%D1%B6%B1%CA%CA%D4%CC%E2%BA%CF%BC%AF_0.html"><span lang=EN-US style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";text-decoration:none;text-underline:none'><span lang=EN-US>点这里，有很多篇《71腾讯笔试题合集》</span></span></a><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='text-align:left'><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>在线阅读本文：</span><span lang=EN-US style='font-size:12.0pt;color:#999999'><a href="http://3y.uu456.com/bp-cdca717ea2692scs2ccsbf7c-1.html"><span
+style='text-decoration:none;text-underline:none'>http://3y.uu456.com/bp-cdca717ea2692scs2ccsbf7c-1.html</span></a><o:p></o:p></span></p>
+
+<h1 align=center style='text-align:center'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>71腾讯笔试题合集</span></h1>
+
+
+<div class=MsoNormal style='margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:2em;mso-char-indent-count:2.0;
+line-height:26.0pt;mso-line-height-rule:exactly;font-family:宋体;
+mso-hansi-font-family:宋体;'><dl class=showpage><a href=bp-cdca717ea26925c52cc5bf7c-1.html id=on >1</a><a href=bp-cdca717ea26925c52cc5bf7c-2.html>2</a><a href=bp-cdca717ea26925c52cc5bf7c-3.html>3</a><a href=bp-cdca717ea26925c52cc5bf7c-4.html>4</a></dl><p>　</p></p><p><p>腾讯笔试题(一)</p><p>腾讯的流程是一笔和四面。前三次面试都是技术面，hr面基本不刷人。笔试成绩决定面试顺序。技术面可能要写代码，做智力题目。</p><p>主要是c/c++、数据结构、操作系统等方面的基础知识。好像有sizeof、树等选择题。填空题是补充完整程序。附加题有写算法的、编程的、数据库sql语句查询的。还有一张开放性问题。</p><p> </p><p>1．请定义一个宏，比较两个数a、b的大小，不能使用大于、小于、if语句。 int   const   shift   =   sizeof(int)*8-1;</p><p>unsigned   mask   =   (0x1&lt;&lt;shift);</p><p>if   (   (a-b)&amp;mask   )</p><p>max_num   =   b;</p><p>else</p><p>max_num   =   a;</p><p>#define Max(a,b) ( a/b)?a:b</p><p>2．如何输出源文件的标题和目前执行行的行数</p><p>int line= __LINE__;</p><p>char *file = __FILE__;</p><p>cout&lt;&lt;&quot;file name is &quot;&lt;&lt;(file)&lt;&lt;&quot;,line is &quot;&lt;&lt;line&lt;&lt;endl;</p><p>3．两个数相乘，小数点后位数没有限制，请写一个高精度算法与大数相乘原理一样，只是调整小数点位置，即有效小数个数</p><p>算法提示：</p><p>输入 string a, string b；计算string c=a*b; 返回 c;</p><p> </p><p>1，   纪录小数点在a,b中的位置l1,l2，则需要小数点后移动位置数为l=length(a)+length(b)-l1-l2-2;</p><p> </p><p>2，   去掉a,b中的小数点，</p><p>（a,b小数点后移，使a,b变为整数）</p><p> </p><p>3， 计算c=a*b;</p><p>（要么用java的BigInterger搞, 要么自己用C++写高精度数乘法，超过百万位，用FFT,我就不细说，这都预先写过就别做了</p><p>）</p><p> </p><p>4， 输出c</p><p>（注意在输出倒数第l个数时，输出一个小数点。若是输出的数少于l个，就补0）</p><p>4．写一个病毒</p><p>while (1)</p><p> </p><p>{</p><p>int *p = new int[10000000];</p><p>}</p><p>上面这个不对，没有传染性，寄生性……</p><p> </p><p>5．不使用额外空间,将 A,B两链表的元素交叉归并将树序列化转存在数组或 链表中</p><p>struct st{</p><p>int i;</p><p>short s;</p><p>char c;</p><p>};</p><p>sizeof(struct st);</p><p> </p><p>8</p><p>char * p1;</p><p>void * p2;</p><p>int p3;</p><p>char p4[10];</p><p>sizeof(p1...p4) =?</p><p> </p><p>4，4，4，10</p><p> </p><p>5.让你在100000000个浮点数中找出最大的10000个，要求时间复杂度优。</p><p>最小堆</p><p>二分查找</p><p>快速排序</p><p>双向链表的删除结点</p><p> </p><p>6、有A、B、C、D四个人，要在夜里过一座桥。他们通过这座桥分别需要耗时1、2、5、10分钟，只有一支手电，并且同时最多只能两个人一起过桥。请问，如何安排，能够在17分钟内这四个人都过桥？</p><p>基础题有15道选择和2道读程序填空。选择题的确是很基础，主要考数据结构，还有一些体系结构、数据库的题目；读程序题跟我们平时考试的差不多，一道是两个升序链合并成一个升序链+递归，一道是四色着色方案附加题有几道没有看清楚。有一道是unix防僵死算法，最后一道是sql查询，还有几道忘了，其中一个是很长的程序题。</p><p> </p><p>发信人: charly (查理一世), 板面: Work</p><p>标 题: 腾讯笔试题</p><p>发信站: 飘渺水云间 (Sat Nov 11 10:55:33 2006), 转信</p><p> </p><p>15个选择题，60分</p><p>一个程序填空，40分</p><p>三道附加题60分</p><p> </p><p>附加题考的是</p><p>1、不用第三个变量实现两个整形变量的交换linux的子进程操作系统资源抢占管理，两个进程要对文件进行独占访问，采用共享变量，判断可行否</p><p>2、书写strcpy()</p><p>时间两个小时，选择题 15*4</p><p>然后是程序填空题     10 (2*5), 30 (10*3)</p><p>附加题               用c++ 实现一个链地址hash。</p><p>程序填空题我就不说了，比较easy的说，值得一提的是选择题。</p><p>绝大部分考的是C++，我大致说下主要部分吧：</p><p>涉及程序执行压栈的：           1道</p><p>涉及容器和迭代器的：           4道</p><p>涉及虚拟函数以及dynamic_cast的 3道</p><p>涉及参数传递的                 1道</p><p>简单的程序段落判断             2道</p><p>涉及类的静态成员赋值的         1道</p><p>剩下的是杂七杂八的。不管怎么说，假如你把c++ primer 仔细阅读了一遍，基本上没问题。考的有些细，没有涉及算法和编译等知识，所以我同屋一个兄弟很郁闷，因为他linux底层比较好，本来报的是后台开发，哪知道结果考这种类型的题目。程序填空的考了文件操作，以及数组移动等。附加题比较简单的说，只要把数据结构的hash部分好好看，然后用class组装一下就ok了。</p><p>最后祝大家好运，今年腾讯计划50％的是校园招聘，感觉很不多</p><p> </p><p>查看更多知名IT公司笔试题：</p><p>http/bbs.guolairen.com/</p><p> </p><p>腾讯笔试题(二)</p><p>一些腾讯笔试题及其答案</p><p>声明：题目来自网络，答案大部分来自网络并经过整理；有些是自己查资料和请教他人得来的。</p><p>1.1、有A、B、C、D四个人，要在夜里过一座桥。</p><p>他们通过这座桥分别需要耗时1、2、5、10分钟，只有一支手电，并且同时最多只能两个人一起过桥。</p><p>请问，如何安排，能够在17分钟内这四个人都过桥？</p><p>答案：A &amp; B --&gt;2 mins</p><p>1 mins &lt;-- A</p><p>C &amp; D --&gt;10 mins</p><p>2 mins &lt;-- B</p><p>A &amp; B --&gt; 2 mins</p><p>一共 2 ＋ 1 ＋ 10 ＋ 2 ＋ 2 ＝ 17 mins</p><p>1.2 、1-20的两个数把和告诉A,积告诉B，A说不知道是多少，</p><p>B也说不知道，这时A说我知道了，B接着说我也知道了，问这两个数是多少？</p><p class="noIndent">答案：2和3</p><p>答案有3个：</p><p>1 2和2</p><p>2 2和3</p><p>3 2和4</p><p>第一个大概是(2,2)吧</p><p>A得到的是2+2=4,B得到的是2*2=4</p><p>开始A当然不知道,因为有可能是(2,2)或(1,3)</p><p>这时B也不知道,因为有可能是(2,2)或(1,4),而且这两种情况A无均会答&quot;不知道&quot;</p><p>这时,我就已经知道了,因为如果是(1,3),B得到的是3,只有(1,3)这种情况,就不会回答&quot;不知道&quot; 由B的答案,A可以肯定是(2,2)</p><p>同样,A说&quot;知道&quot;了以后,B也就知道了</p><p>因为如果是(1,4),A得到的是5,只凭第二步B说&quot;不知道&quot;,A不可能在第三步便&quot;知道&quot; 所以B可以断定,是(2,2)</p><p>逻辑推理：这两个数是多少？</p><p>两个人A，B。数字为2-100之间的自然数。现找出两个数，把其和告诉A，把其积告 诉B。然后问A知道不知道是哪两个数，A说：“虽然我</p><p>不知道，但是肯定B也不知道。” 再问B，B说：“本来我不知道，但是听到A说这句话，现在我知道了。”，A听到B说他 知道了，然后就说：</p><p>“现在我也知道了”。那么这两个数是多少呢？</p><p>由A说：“虽然我不知道，但是肯定B也不知道。”得：和不是两个素数的和</p><p>得出以下数字：</p><p>11，17，23，27，29，35，37，41，47，51，53，57，59。。。。。等</p><p>通过以上列出的和，推出积的可能性：</p><p>和－》积</p><p>11－》18，24，28，30</p><p>17－》30，42，52，60，66，70，72</p><p>23－》42，60，76，90，102，112，120</p><p>27－》50，72，92，110，126，140，152。。。。</p><p>29－》54，78，100，120，115，138，154。。。。</p><p>35－》66，96，124，150，174，196。。。。</p><p>根据“B说：“本来我不知道，但是听到A说这句话，现在我知道了。” ”我们首先可以删除一些重复出现的积，如30，120</p><p>得到：</p><p>11－》18，24，28，</p><p>17－》52，</p><p>23－》42，76，</p><p>27－》50，92。。。</p><p>29－》54，78。。。。</p><p>35－》96，124。。。</p><p>由“A对B说：呵呵，我也知道了。”可以知道积是唯一的，那只有52了</p><p>所以得到和是17，积是52</p><p>答案就是4和13。</p><p>1.3 、爸爸,妈妈,妹妹,小强,至少两个人同一生肖的概率是多少?</p><p>1-12*11*10*9/12*12*12*12 = 1-55/96 = 41/96</p><p>1.4 某人去玩具店买小熊，单价30元. 付给玩具店老板100元 玩具店老板没零钱,</p><p>去水果店换了100元零钱回来找给那人70元. 那人走后, 水果店老板找到玩具店老板说刚才的100元是假币,</p><p>玩具店老板赔偿了水果店老板100元</p><p>问：玩具店老板损失了多少钱?</p><p>答案： 70＋小熊的进价</p><p>2 请定义一个宏，比较两个数a、b的大小，不能使用大于、小于、if语句</p><p>答案：</p><p>#define   max(a,b)   ((((long)((a)-(b)))&amp;0x80000000)?b:a)</p><p>若a &gt; b ,则a-b的二进制最高位为0，与上任何数还是0，所以大数为a；</p><p>否则，a-b为负数，二进制最高位为1，与上0x80000000（最高位为1其他为0）之后为1，所以此时的大数为b.</p><p>3 计算 a^b &lt;&lt; 2</p><p>答案：</p><p>运算符优先级：括号，下标，-&gt;和.(成员)最高；</p><p>单目的比双目的高；</p><p>算术双目的比其他双目的高；</p><p>位运算 高于 关系运算；</p><p>关系运算 高于 按位运算（与，或，异或）；</p><p>按位运算 高于 逻辑运算；</p><p>三目的只有一个 条件运算，低于逻辑运算；</p><p>赋值运算仅比 , （顺序运算）高。</p><p>在此题中，位左移&quot;&lt;&lt;&quot; 优先级高于 按位异或&quot;^&quot;,所以b先左移两位（相当于乘以4），再与a异或。</p><p>例如： 当 a = 6； b = 4 时； 则 a^b&lt;&lt;2 = 22</p><p>4、如何输出源文件的标题和目前执行行的行数？</p><p>答案： printf(&quot;The file name: %d\n&quot;, __FILE__);</p><p>printf(&quot;The current line No:%d\n&quot;, __LINE__);</p><p>ANSI C标准预定义宏:</p><p>__LINE__</p><p>__FILE__</p><p>__DATE__</p><p>__TIME__</p><p>__STDC__        当要求程序严格遵循ANSI C标准时该标识符被赋值为1</p><p>__cplusplus__   当编写C++程序时该标识符被定义</p><p>5、 a[3][4]哪个不能表示 a[1][1]: *(&amp;a[0][0]+5) *(*(a+1)+1) *(&amp;a[1]+1) *(&amp;a[0][0]+4) 答案: *(*(a+1)+1)</p><p>a是数组的首地址，a+1相当于&amp;a[0][1], *(a+1)=a[0][1],则*(*(a+1)+1)= *(a[0][1] + 1) =/= a[1][1]</p><p>6、 fun((exp1,exp2),(exp3,exp4,exp5))有几个实参？</p><p>答案：两个。</p><p>形式参数：在声明和定义函数时，写在函数名后的括号中的参数。</p><p>实参是调用参数中的变量，行参是被调用函数中的变量。</p><p><a href=http://3y.uu456.com>三亿文库3y.uu456.com</a>包含各类专业文献、应用写作文书、中学教育、高等教育、行业资料、生活休闲娱乐、专业论文、71腾讯笔试题合集等内容。</p><dl class=showpage><a href=bp-cdca717ea26925c52cc5bf7c-1.html id=on >1</a><a href=bp-cdca717ea26925c52cc5bf7c-2.html>2</a><a href=bp-cdca717ea26925c52cc5bf7c-3.html>3</a><a href=bp-cdca717ea26925c52cc5bf7c-4.html>4</a></dl><p>　</p></div>
+
+<p class=MsoFooter align=center style='text-align:center'><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>三亿文库</span><span lang=EN-US><a
+href="http://3y.uu456.com/">http://3y.uu456.com/</a></span></p>
+
+<p class=MsoFooter align=center style='text-align:center'><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>上亿文档资料，等你来发现</span><span lang=EN-US style='font-size:16.0pt;mso-bidi-font-size:10.0pt;color:#993300'><o:p></o:p></span></p>
+</div>
+</body></html>
